@@ -36,3 +36,6 @@ Amazon Web Services
 -Relational Database
 
 Google Maps API
+
+Presentation:
+https://docs.google.com/presentation/d/1Ex-GfdqAPxypbn_0rRkgp8VjGE68_uZ4TJPn52Y-NA4/edit?usp=sharing
